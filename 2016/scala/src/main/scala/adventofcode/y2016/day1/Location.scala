@@ -1,4 +1,4 @@
-package day1
+package adventofcode.y2016.day1
 
 case class Location(x: Int, y: Int) {
 

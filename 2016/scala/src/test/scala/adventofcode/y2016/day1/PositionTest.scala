@@ -1,4 +1,4 @@
-package day1
+package adventofcode.y2016.day1
 
 import org.scalatest.{Matchers, FlatSpec}
 
